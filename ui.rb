@@ -9,7 +9,7 @@ def da_boas_vindas
     nome
 end
 
-def desenha_forca
+def desenha_forca erros
     cabeca = "   "
     bracos = "   "
     pernas = "   "
